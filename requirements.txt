@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+prometheus-api-client
+pandas
+numpy
+scikit-learn
+torch
+docker
+streamlit
+locust
